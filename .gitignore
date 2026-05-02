@@ -1,0 +1,5 @@
+Take_Home_Question.pdf
+__pycache__/
+.ipynb_checkpoints/
+.mrx-link-logs/
+*.pdf
