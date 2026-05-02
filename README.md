@@ -56,7 +56,7 @@ Uses synthetically generated data with known ground truth to rigorously evaluate
 
 | File | Description |
 |---|---|
-| `Home_Work.ipynb` | Full analysis — data generation, clustering, accuracy, visualizations |
+| `kmeans-geometry-study.ipynb` | Full analysis — data generation, clustering, accuracy, visualizations |
 
 > No external dataset required — data is synthetically generated in-notebook.
 
