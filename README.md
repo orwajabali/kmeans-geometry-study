@@ -1,7 +1,7 @@
 # 🔵 K-Means Clustering — Geometry, Accuracy & Limitations
 
 A focused study on **K-Means behavior under controlled geometric conditions** — generating synthetic circular and elliptical datasets, measuring clustering accuracy, and benchmarking against alternative algorithms.
-
+![Original Points from Circles](Original Points from Circles.png) 
 ---
 
 ## 🎯 What This Project Does
